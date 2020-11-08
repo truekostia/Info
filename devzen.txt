@@ -1,0 +1,34 @@
+IRC
+MixLR.com
+Spriaker.com
+RSS tiny-tiny RSS
+juber chat
+REST API
+Confluance
+Статична типізація
+Бітлокет
+Бітпакет
+Орланго
+IDE (ITE)
+LiderElection
+DIA
+Latech
+Scala
+shef
+papit , ansible
+jenkins
+джорнік система неперивної інтеграції
+continous development
+continous delivery
+continous integration
+pssh якщо треба на dhcp серверах виконати одну і туж команду (наприклад білд викотити)
+ensible
+tempo sh моб інет
+auto ssh - сидиш на сервері, глюкнула мережа, kill o shh , перезайти, а з цим перепідключається автоматом втрачаєм тільки каталог
+ti mux 
+dealizer
+dipricated functions
+акангл (аканл) новий образ на амазоні
+серіалізація
+транзіт замість джейсон
+ірланг

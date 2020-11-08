@@ -1,0 +1,5 @@
+sudo apt-get install gimp - GNU Image Manipulation Program
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt install ./google-chrome-stable_current_amd64.deb
+mkdir mmm
+sudo docker-compose up --build

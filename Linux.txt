@@ -1,0 +1,16 @@
+in terminal
+pi@raspberrypi:
+pi - user
+raspberrypi - system's name
+
+kostya@kostya-VirtualBox:
+kostya - user
+kostya-VirtualBox - system's name
+
+$ - invitation to enter in terminal
+$ clang hello.c - compiler from C language to binary file a.out for file hello.c
+$ ./a.out - run compiled binary file a.out (assembler out)
+$ ./filename means you're calling something in the current working directory
+$ ../filename would be used if you're calling something in the parent of the current working directory.
+$ clang -o hello hello.c - compiler from C language to binary file named hello for file hello.c
+$ make hello - the same as previous one
